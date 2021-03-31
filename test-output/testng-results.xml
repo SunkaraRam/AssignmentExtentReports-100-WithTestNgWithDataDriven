@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-31T15:03:50Z" name="Suite" finished-at="2021-03-31T15:05:05Z" duration-ms="74771">
+    <groups>
+    </groups>
+    <test started-at="2021-03-31T15:03:50Z" name="Test1" finished-at="2021-03-31T15:05:05Z" duration-ms="74771">
+      <class name="PersistentSystems.Assignment">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:PersistentSystems.Assignment@31c7528f]" started-at="2021-03-31T15:03:50Z" name="launch" finished-at="2021-03-31T15:04:27Z" duration-ms="37190" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="NaviD(java.lang.String)[pri:0, instance:PersistentSystems.Assignment@31c7528f]" started-at="2021-03-31T15:04:27Z" name="NaviD" data-provider="getData" finished-at="2021-03-31T15:04:35Z" duration-ms="8192" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.flipkart.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NaviD -->
+        <test-method is-config="true" signature="close()[pri:0, instance:PersistentSystems.Assignment@31c7528f]" started-at="2021-03-31T15:04:35Z" name="close" finished-at="2021-03-31T15:04:41Z" duration-ms="5182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:PersistentSystems.Assignment@31c7528f]" started-at="2021-03-31T15:04:41Z" name="launch" finished-at="2021-03-31T15:04:47Z" duration-ms="6794" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="NaviD(java.lang.String)[pri:0, instance:PersistentSystems.Assignment@31c7528f]" started-at="2021-03-31T15:04:47Z" name="NaviD" data-provider="getData" finished-at="2021-03-31T15:04:51Z" duration-ms="3802" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_custrec_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NaviD -->
+        <test-method is-config="true" signature="close()[pri:0, instance:PersistentSystems.Assignment@31c7528f]" started-at="2021-03-31T15:04:51Z" name="close" finished-at="2021-03-31T15:04:53Z" duration-ms="1275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:PersistentSystems.Assignment@31c7528f]" started-at="2021-03-31T15:04:53Z" name="launch" finished-at="2021-03-31T15:04:57Z" duration-ms="4350" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="NaviD(java.lang.String)[pri:0, instance:PersistentSystems.Assignment@31c7528f]" started-at="2021-03-31T15:04:57Z" name="NaviD" data-provider="getData" finished-at="2021-03-31T15:05:03Z" duration-ms="6380" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.ebay.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NaviD -->
+        <test-method is-config="true" signature="close()[pri:0, instance:PersistentSystems.Assignment@31c7528f]" started-at="2021-03-31T15:05:03Z" name="close" finished-at="2021-03-31T15:05:05Z" duration-ms="1490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- PersistentSystems.Assignment -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
